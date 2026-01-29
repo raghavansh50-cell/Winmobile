@@ -1,0 +1,5 @@
+{
+  "name": "WinMobile Desktop",
+  "description": "A high-end, landscape-only Windows 11 style desktop emulator for mobile screens featuring a functional window system, calculator, to-do list, timer, and snake game.",
+  "requestFramePermissions": []
+}
